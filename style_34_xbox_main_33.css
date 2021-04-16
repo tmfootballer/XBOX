@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+.img_heading{
+    text-align: center;
+}
+.heading{
+     color: greenyellow;
+    text-align: center;
+    font-family: X360;
+    font-size: 40px;
+}
+.heading2{
+    color: greenyellow;
+    font-family: X360; font-size: 20px;
+    text-decoration: underline;
+}
+.para1{
+    color: greenyellow;
+    font-size: 20px;
+}
+.heading3{
+    color: greenyellow;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.heading4{
+    color: greenyellow;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.para2{
+    color: greenyellow;
+    font-size: 20px;
+}
+ .heading5{
+    color: greenyellow;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.heading6{
+    color: greenyellow;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.details{
+    color: greenyellow;
+    font-size: 20px;
+}
+a{
+    color: white;
+}
